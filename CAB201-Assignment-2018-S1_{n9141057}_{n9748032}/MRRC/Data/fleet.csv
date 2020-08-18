@@ -1,0 +1,6 @@
+Rego,VehicleClass,Make,Model,Year,NumSeats,Transmission,Fuel,GPS,SunRoof,DailyRate,Colour
+123HCB,Economy,Mazda,3,2000,4,Automatic,Petrol,False,False,50,Red
+809POI,Luxury,Audi,A3 Cabriolet,2018,2,Manual,Petrol,True,False,120,White
+999QWJ,Economy,Honda,Odyssey,2014,8,Automatic,Diesel,True,False,130,Grey
+555ABC,Economy,mazda,3,2016,1,Automatic,Diesel,False,False,100,matte
+555CCC,Economy,Toyota,3,2010,1,Automatic,Petrol,False,True,50,black
